@@ -33,7 +33,7 @@
     
     [self updateIcon];
     
-//    [self allUserFromDB];
+    [self allUserFromDB];
     
     
     
